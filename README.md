@@ -1,2 +1,5 @@
 # Robofriends
-React
+clone this repo 
+npm start
+npm run
+
